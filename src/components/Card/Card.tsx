@@ -16,6 +16,7 @@ export const Card: FC<Props> = ({ product }) => {
         width={999}
         height={999}
         alt={product.title}
+        priority
       />
       <h3 className="text-xl">{product.title}</h3>
       <p>{product.description}</p>

@@ -13,8 +13,8 @@ module.exports = {
   },
   rules: {
     'no-console': ['error'],
-    'no-unused-vars': ['error'],
     'unused-imports/no-unused-imports': ['error'],
+    "@typescript-eslint/no-unused-vars": ["error"],
     '@typescript-eslint/consistent-type-imports': ['error'],
     'padding-line-between-statements': [
       'error',

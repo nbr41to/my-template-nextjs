@@ -17,6 +17,6 @@ Default.args = {
     title: 'Product 1',
     description: 'Product 1 description',
     price: 100,
-    thumbnail: 'https://via.placeholder.com/300',
+    thumbnail: 'https://dummyjson.com/image/i/products/1/thumbnail.jpg',
   },
 };

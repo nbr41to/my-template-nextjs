@@ -5,4 +5,7 @@ module.exports = {
     extend: {},
   },
   plugins: [],
+  corePlugins: {
+    preflight: false, // mantine の base style と競合するので無効化
+  },
 };

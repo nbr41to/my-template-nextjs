@@ -1,5 +1,11 @@
 # Welcome My Template with Next.js
 
+## Templates
+
+- [Main](https://github.com/nbr41to/my-template-nextjs)
+- [with Mantine](https://github.com/nbr41to/my-template-nextjs/tree/with-mantine)
+- [Simple](https://github.com/nbr41to/my-template-nextjs/tree/simple)
+
 ## Getting Started
 
 ```sh

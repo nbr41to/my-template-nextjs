@@ -11,10 +11,10 @@ export const Card: FC<Props> = ({ product }) => {
   return (
     <div className="w-60 space-y-2 rounded border bg-slate-100 p-4">
       <Image
-        className="max-h-[160px] rounded object-cover object-center"
+        className="min-h-[200px] rounded object-contain object-center"
         src={product.thumbnail}
-        width={999}
-        height={999}
+        width={200}
+        height={200}
         alt={product.title}
         priority
       />
